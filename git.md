@@ -59,7 +59,7 @@ git config --global core.editor "micro"
 ```shell
 git config --global core.editor "nano"
 ```
-На `VS code` (елементарен для новичков)
+На `VS code` (элементарен для новичков)
 ```shell
 git config --global core.editor "code --wait"
 ```
