@@ -8,3 +8,5 @@
 - [BashCLI](./TaskBash/Bash.md)
 - [BashScripting](/Linux/BashScripting.md)
 - [Git](./git.md)
+- [WorkBash](/Linux/TaskBash/README.md)
+)
