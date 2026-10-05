@@ -6,5 +6,5 @@
 - [Marckdown](./markdown.md)
 - [Mermaid](./mermaid.md)
 - [BashCLI](./TaskBash/Bash.md)
-- [BashScripting](./BashScripting.md)
+- [BashScripting](/Linux/BashScripting.md)
 - [Git](./git.md)
