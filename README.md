@@ -9,4 +9,5 @@
 - [BashScripting](/Linux/BashScripting.md)
 - [Git](./git.md)
 - [WorkBash](/Linux/TaskBash/README.md)
-- [Мой_сайт](https://github.io)
+- [Мой_сайт](file:///D:/my_site/index.html)
+
