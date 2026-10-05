@@ -6,5 +6,6 @@
 - [Marckdown](markdown.md)
 - [Mermaid](mermaid.md)
 - [BashCLI](TaskBash/Bash.md)
-- [BashScripting](BashScripting.md)
+- [BashScripting](TaskBashBashScripting.md)
 - [Git](git.md)
+git add ../../README.md
