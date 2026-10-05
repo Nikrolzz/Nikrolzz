@@ -9,5 +9,5 @@
 - [BashScripting](/Linux/BashScripting.md)
 - [Git](./git.md)
 - [WorkBash](/Linux/TaskBash/README.md)
-- [Мой_сайт](file:///D:/my_site/index.html)
+- [Мой_сайт](https://nikrolzz.github.io/my_site/)
 
