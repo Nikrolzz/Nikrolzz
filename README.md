@@ -8,4 +8,3 @@
 - [BashCLI](TaskBash/Bash.md)
 - [BashScripting](TaskBashBashScripting.md)
 - [Git](git.md)
-git add ../../README.md
