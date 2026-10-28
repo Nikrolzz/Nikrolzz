@@ -14,4 +14,4 @@
 - [Ссылка на репозиторий с сайтом2](https://github.com/Nikrolzz/MyFsite)
 - [Мой сайт2](https://nikrolzz.github.io/MyFsite/)
 - [Team repos](https://github.com/Devisush/team-work)
-- [Ccлка](https://devisush.github.io/team-work/)
+- [Ccылка](https://devisush.github.io/team-work/)
