@@ -9,7 +9,7 @@
 - [BashScripting](/Linux/BashScripting.md)
 - [Git](./git.md)
 - [WorkBash](/Linux/TaskBash/README.md)
-- [docker](/docker.md)
+- [Docker](/docker.md)
 - [Ссылка на репозиторий c cайтом](https://github.com/Nikrolzz/my_site)
 - [Мой_сайт](https://nikrolzz.github.io/my_site/)
 - [Ссылка на репозиторий с сайтом2](https://github.com/Nikrolzz/MyFsite)
