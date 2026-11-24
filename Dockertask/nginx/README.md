@@ -7,8 +7,8 @@
 ```shell
 docker version
 ```
-![Версия Docker](/Dockertask/nginx/Screenshot_1.png)
-## 2. Подготовка (чистый лист)
+![Версия Docker](/Dockertask/img/Screenshot_1.png)
+## 2. Подготовка
 
 Посмотрел, какие контейнеры уже есть, остановил их и удалил остановленные:
 
@@ -21,7 +21,7 @@ docker images
 ```
 После очистки контейнеров не осталось.
 
-![Очистка контейнеров](/Dockertask/nginx/img1.png)
+![Очистка контейнеров](/Dockertask/img/img1.png)
 
 ## 3. Получение образа Nginx и запуск контейнера
 
@@ -40,7 +40,7 @@ docker ps -a
 ```
 
 Запуск контейнера
-![Запуск](image.png)
+![Запуск](/Dockertask/img/Screenshot_12.png)
 
 
 ## 4 Управление контейнером
@@ -50,7 +50,7 @@ docker ps -a
 docker logs my-nginx
 ```
 
-![docker logs](Screenshot_2.png)
+![docker logs](/Dockertask/img/Screenshot_2.png)
 
 
 ### Работа внутри контейнера
@@ -68,9 +68,9 @@ uname -a
 cat /etc/os-release
 ```
 
-![uname](/Dockertask/nginx/Screenshot_3.png)
+![uname](/Dockertask/img/Screenshot_3.png)
 
-![os-release](/Dockertask/nginx/Screenshot_4.png)
+![os-release](/Dockertask/img/Screenshot_4.png)
 
 Установил несколько программ:
 
@@ -88,7 +88,7 @@ apt update && apt install -y fastfetch htop inxi cmatrix hollywood caca-utils mc
 fastfetch
 ```
 
-![fastfetch](/Dockertask/nginx/img2.png)
+![fastfetch](/Dockertask/img/img2.png)
 
 `htop` показывает процессы (видно мастер-процесс nginx и его воркеры):
 
@@ -96,7 +96,7 @@ fastfetch
 htop
 ```
 
-![htop](/Dockertask/nginx/Screenshot_5.png)
+![htop](/Dockertask/img/Screenshot_5.png)
 
 `cmatrix`:
 
@@ -104,7 +104,7 @@ htop
 cmatrix
 ```
 
-![cmatrix](/Dockertask/nginx/Screenshot_6.png)
+![cmatrix](/Dockertask/img/Screenshot_6.png)
 
 `cacafire`:
 
@@ -112,7 +112,7 @@ cmatrix
 cacafire
 ```
 
-![cacafire](/Dockertask/nginx/Screenshot_7.png)
+![cacafire](/Dockertask/img/Screenshot_7.png)
 
 `hollywood` запускает сразу несколько окон в tmux (atop, bmon, логи и другое):
 
@@ -120,7 +120,7 @@ cacafire
 hollywood
 ```
 
-![hollywood](/Dockertask/nginx/Screenshot_8.png)
+![hollywood](/Dockertask/img/Screenshot_8.png)
 
 ## 5. Редактирование страницы Nginx
 
